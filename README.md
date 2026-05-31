@@ -31,6 +31,7 @@ Alguns pontos analisados:
 * Tipos de variáveis
 * Valores ausentes
 
+![Base de Dados](images/base_dados.png)
 ```
 
 ---
@@ -44,8 +45,6 @@ Entre eles:
 * Tratamento de valores ausentes
 * Correção de tipos de dados
 * Padronização de algumas informações
-
-📸 *Inserir imagem da base tratada*
 
 
 ![Limpeza dos Dados](images/limpeza_dados.png)
@@ -63,7 +62,7 @@ Primeiro analisei a proporção entre clientes que permaneceram e clientes que c
 
 📸 *Inserir gráfico*
 
-```md
+
 ![Distribuição do Churn](images/churn.png)
 ```
 
@@ -77,9 +76,8 @@ A base apresenta uma parcela relevante de clientes que cancelaram o serviço, in
 
 Também analisei como o churn se comporta de acordo com o tipo de contrato.
 
-📸 *Inserir gráfico*
 
-```md
+
 ![Churn por Contrato](images/contrato.png)
 ```
 
