@@ -30,11 +30,6 @@ Alguns pontos analisados:
 * Quantidade de registros
 * Tipos de variáveis
 * Valores ausentes
-* Estrutura geral da base
-
-```md
-
-![Analise exploratoria](<img width="1349" height="478" alt="Captura de Tela (21)" src="https://github.com/user-attachments/assets/3c997d4e-cbcd-49d7-b752-12e8fb15bbd5" />)
 
 ```
 
@@ -52,7 +47,7 @@ Entre eles:
 
 📸 *Inserir imagem da base tratada*
 
-```md
+
 ![Limpeza dos Dados](images/limpeza_dados.png)
 ```
 
@@ -179,16 +174,3 @@ Além do aspecto técnico, a análise mostrou como os dados podem ajudar a ident
 ---
 
 
-Faria alguns ajustes para ficar mais natural e menos com cara de template.
-
-Principalmente:
-
-* Menos listas gigantes.
-* Mais explicação do que *você fez*.
-* Insights escritos como observações reais.
-* As imagens inseridas no fluxo da análise.
-* Conclusão parecendo alguém apresentando um projeto e não um relatório corporativo.
-
-Você pode usar algo assim:
-
----
