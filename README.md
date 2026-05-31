@@ -34,7 +34,7 @@ Alguns pontos analisados:
 
 ```md
 
-<img width="1349" height="478" alt="Captura de Tela (21)" src="https://github.com/user-attachments/assets/3c997d4e-cbcd-49d7-b752-12e8fb15bbd5" />
+![Analise exploratoria](<img width="1349" height="478" alt="Captura de Tela (21)" src="https://github.com/user-attachments/assets/3c997d4e-cbcd-49d7-b752-12e8fb15bbd5" />)
 
 ```
 
