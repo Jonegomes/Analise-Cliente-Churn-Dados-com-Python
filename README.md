@@ -1,4 +1,6 @@
 
+---
+
 # 📊 Análise de Churn de Clientes com Python
 
 ## Sobre o Projeto
@@ -29,7 +31,7 @@ Antes de iniciar qualquer análise, é importante garantir que os dados estejam 
 
 📸 **Visualização inicial da base**
 
-
+```md
 ![Base de Dados](images/base_dados.png)
 ```
 
@@ -217,7 +219,3 @@ Este projeto permitiu aplicar conceitos de análise de dados em um cenário bast
 Além do desenvolvimento técnico em Python, a análise demonstrou como os dados podem ser utilizados para identificar padrões de comportamento, gerar insights e apoiar decisões estratégicas voltadas para a redução do churn.
 
 Uma possível evolução futura seria a construção de modelos preditivos capazes de identificar clientes com maior probabilidade de cancelamento, tornando as ações de retenção ainda mais eficientes.
-
-Para deixar o README ainda mais profissional, eu criaria uma pasta chamada **images** e salvaria todas as capturas dos gráficos nela. Depois substituiria cada imagem pelos gráficos reais do notebook. Isso costuma aumentar bastante o impacto visual do projeto para quem abre o GitHub pela primeira vez. Seu repositório [Analise Cliente Churn Dados com Python](https://github.com/Jonegomes/Analise-Cliente-Churn-Dados-com-Python?utm_source=chatgpt.com) já tem uma base boa para isso. ([mssqltips.com][1])
-
-[1]: https://www.mssqltips.com/sqlservertip/8148/customer-churn-analysis-with-python/?utm_source=chatgpt.com "Customer Churn Analysis with Python"
